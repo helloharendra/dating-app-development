@@ -14,6 +14,20 @@ Whether you want to build a modern dating application, a niche matchmaking platf
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Discover</b><br><br><img src="screenshots/1-discover.png" alt="Discover" width="240"></td>
+    <td align="center"><b>Likes</b><br><br><img src="screenshots/2-likes.png" alt="Likes" width="240"></td>
+    <td align="center"><b>Chats</b><br><br><img src="screenshots/3-chats.png" alt="Chats" width="240"></td>
+    <td align="center"><b>Profile</b><br><br><img src="screenshots/4-profile.png" alt="Profile" width="240"></td>
+  </tr>
+</table>
+
+---
+
 ## Dating App Development Services
 
 Dating app development involves creating digital platforms that help users discover potential matches, connect with other people, communicate, and build meaningful interactions.
@@ -215,15 +229,3 @@ The final technology stack depends on product requirements, expected user volume
 ## Dating App Development Process
 
 1. **Requirement Analysis:** Understand your dating app concept, target audience, and business
-
-<!-- screenshots -->
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center"><b>Discover</b><br><br><img src="screenshots/1-discover.png" alt="Discover" width="240"></td>
-    <td align="center"><b>Likes</b><br><br><img src="screenshots/2-likes.png" alt="Likes" width="240"></td>
-    <td align="center"><b>Chats</b><br><br><img src="screenshots/3-chats.png" alt="Chats" width="240"></td>
-    <td align="center"><b>Profile</b><br><br><img src="screenshots/4-profile.png" alt="Profile" width="240"></td>
-  </tr>
-</table>
